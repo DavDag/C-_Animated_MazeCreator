@@ -1,4 +1,4 @@
-# C-_Animated_MazeCreator
+# Csharp_Animated_MazeCreator
 An Animated Maze creator made in C# with SFML.NET
 
 ### With ulimited FPS (~0.8s)
