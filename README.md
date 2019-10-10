@@ -1,6 +1,12 @@
 # C-_Animated_MazeCreator
 An Animated Maze creator made in C# with SFML.NET
 
+### With ulimited FPS (~0.8s)
+![](https://github.com/DavDag/Csharp_Animated_MazeCreator/blob/master/demo/demo1.gif)
+
+### With fixed FPS (60fps)
+![](https://github.com/DavDag/Csharp_Animated_MazeCreator/blob/master/demo/demo2.gif)
+
 Benchmark on:
 * Microsoft Windows 10 Pro
 * Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, 2201 Mhz, 6 core, 12 processori logici
